@@ -1,0 +1,10 @@
+C:\Users\Hao\OneDrive\桌面\delegate\delegateForm\delegateForm\obj\Debug\delegateForm.csprojAssemblyReference.cache
+C:\Users\Hao\OneDrive\桌面\delegate\delegateForm\delegateForm\obj\Debug\delegateForm.Form1.resources
+C:\Users\Hao\OneDrive\桌面\delegate\delegateForm\delegateForm\obj\Debug\delegateForm.Properties.Resources.resources
+C:\Users\Hao\OneDrive\桌面\delegate\delegateForm\delegateForm\obj\Debug\delegateForm.csproj.GenerateResource.cache
+C:\Users\Hao\OneDrive\桌面\delegate\delegateForm\delegateForm\obj\Debug\delegateForm.csproj.CoreCompileInputs.cache
+C:\Users\Hao\OneDrive\桌面\delegate\delegateForm\delegateForm\bin\Debug\delegateForm.exe.config
+C:\Users\Hao\OneDrive\桌面\delegate\delegateForm\delegateForm\bin\Debug\delegateForm.exe
+C:\Users\Hao\OneDrive\桌面\delegate\delegateForm\delegateForm\bin\Debug\delegateForm.pdb
+C:\Users\Hao\OneDrive\桌面\delegate\delegateForm\delegateForm\obj\Debug\delegateForm.exe
+C:\Users\Hao\OneDrive\桌面\delegate\delegateForm\delegateForm\obj\Debug\delegateForm.pdb
